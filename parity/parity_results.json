@@ -1,0 +1,142 @@
+[
+  {
+    "route": "/",
+    "route_name": "home",
+    "viewports": {
+      "desktop": {
+        "source_screenshot": "parity/screenshots/home/desktop/source.png",
+        "local_screenshot": "parity/screenshots/home/desktop/local.png",
+        "diff_screenshot": null,
+        "similarity": null,
+        "captured_successfully": true
+      },
+      "mobile": {
+        "source_screenshot": "parity/screenshots/home/mobile/source.png",
+        "local_screenshot": "parity/screenshots/home/mobile/local.png",
+        "diff_screenshot": null,
+        "similarity": null,
+        "captured_successfully": true
+      }
+    }
+  },
+  {
+    "route": "/writing/design-tokens-101",
+    "route_name": "writing_design-tokens-101",
+    "viewports": {
+      "desktop": {
+        "source_screenshot": "parity/screenshots/writing_design-tokens-101/desktop/source.png",
+        "local_screenshot": "parity/screenshots/writing_design-tokens-101/desktop/local.png",
+        "diff_screenshot": null,
+        "similarity": null,
+        "captured_successfully": true
+      },
+      "mobile": {
+        "source_screenshot": "parity/screenshots/writing_design-tokens-101/mobile/source.png",
+        "local_screenshot": "parity/screenshots/writing_design-tokens-101/mobile/local.png",
+        "diff_screenshot": null,
+        "similarity": null,
+        "captured_successfully": true
+      }
+    }
+  },
+  {
+    "route": "/writing/hello-world",
+    "route_name": "writing_hello-world",
+    "viewports": {
+      "desktop": {
+        "source_screenshot": "parity/screenshots/writing_hello-world/desktop/source.png",
+        "local_screenshot": "parity/screenshots/writing_hello-world/desktop/local.png",
+        "diff_screenshot": null,
+        "similarity": null,
+        "captured_successfully": true
+      },
+      "mobile": {
+        "source_screenshot": "parity/screenshots/writing_hello-world/mobile/source.png",
+        "local_screenshot": "parity/screenshots/writing_hello-world/mobile/local.png",
+        "diff_screenshot": null,
+        "similarity": null,
+        "captured_successfully": true
+      }
+    }
+  },
+  {
+    "route": "/writing/how-ai-is-changing-my-workflow",
+    "route_name": "writing_how-ai-is-changing-my-workflow",
+    "viewports": {
+      "desktop": {
+        "source_screenshot": "parity/screenshots/writing_how-ai-is-changing-my-workflow/desktop/source.png",
+        "local_screenshot": "parity/screenshots/writing_how-ai-is-changing-my-workflow/desktop/local.png",
+        "diff_screenshot": null,
+        "similarity": null,
+        "captured_successfully": true
+      },
+      "mobile": {
+        "source_screenshot": "parity/screenshots/writing_how-ai-is-changing-my-workflow/mobile/source.png",
+        "local_screenshot": "parity/screenshots/writing_how-ai-is-changing-my-workflow/mobile/local.png",
+        "diff_screenshot": null,
+        "similarity": null,
+        "captured_successfully": true
+      }
+    }
+  },
+  {
+    "route": "/writing/how-to-think-like-both-a-designer-engineer",
+    "route_name": "writing_how-to-think-like-both-a-designer-engineer",
+    "viewports": {
+      "desktop": {
+        "source_screenshot": "parity/screenshots/writing_how-to-think-like-both-a-designer-engineer/desktop/source.png",
+        "local_screenshot": "parity/screenshots/writing_how-to-think-like-both-a-designer-engineer/desktop/local.png",
+        "diff_screenshot": null,
+        "similarity": null,
+        "captured_successfully": true
+      },
+      "mobile": {
+        "source_screenshot": "parity/screenshots/writing_how-to-think-like-both-a-designer-engineer/mobile/source.png",
+        "local_screenshot": "parity/screenshots/writing_how-to-think-like-both-a-designer-engineer/mobile/local.png",
+        "diff_screenshot": null,
+        "similarity": null,
+        "captured_successfully": true
+      }
+    }
+  },
+  {
+    "route": "/writing/test-test",
+    "route_name": "writing_test-test",
+    "viewports": {
+      "desktop": {
+        "source_screenshot": "parity/screenshots/writing_test-test/desktop/source.png",
+        "local_screenshot": "parity/screenshots/writing_test-test/desktop/local.png",
+        "diff_screenshot": null,
+        "similarity": null,
+        "captured_successfully": true
+      },
+      "mobile": {
+        "source_screenshot": "parity/screenshots/writing_test-test/mobile/source.png",
+        "local_screenshot": "parity/screenshots/writing_test-test/mobile/local.png",
+        "diff_screenshot": null,
+        "similarity": null,
+        "captured_successfully": true
+      }
+    }
+  },
+  {
+    "route": "/writing/ui-performance",
+    "route_name": "writing_ui-performance",
+    "viewports": {
+      "desktop": {
+        "source_screenshot": "parity/screenshots/writing_ui-performance/desktop/source.png",
+        "local_screenshot": "parity/screenshots/writing_ui-performance/desktop/local.png",
+        "diff_screenshot": null,
+        "similarity": null,
+        "captured_successfully": true
+      },
+      "mobile": {
+        "source_screenshot": "parity/screenshots/writing_ui-performance/mobile/source.png",
+        "local_screenshot": "parity/screenshots/writing_ui-performance/mobile/local.png",
+        "diff_screenshot": null,
+        "similarity": null,
+        "captured_successfully": true
+      }
+    }
+  }
+]

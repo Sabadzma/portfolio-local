@@ -1,0 +1,30 @@
+{
+  "source_url": "https://loving-event-914440.framer.app/",
+  "discovered_routes": [
+    "/",
+    "/hi@jacobvos.com",
+    "/writing/design-tokens-101",
+    "/writing/hello-world",
+    "/writing/how-ai-is-changing-my-workflow",
+    "/writing/how-to-think-like-both-a-designer-engineer",
+    "/writing/test-test",
+    "/writing/ui-performance"
+  ],
+  "page_info": {
+    "title": "Saba Chitaishvili",
+    "metaDescription": "",
+    "h1Count": 0,
+    "h2Count": 0,
+    "imageCount": 4,
+    "videoCount": 0,
+    "scriptCount": 9,
+    "stylesheetCount": 0
+  },
+  "navigation_structure": [
+    {
+      "tag": "HEADER",
+      "links": []
+    }
+  ],
+  "total_routes": 8
+}

@@ -1,0 +1,370 @@
+{
+  "fonts": [
+    {
+      "url": "https://fonts.gstatic.com/s/fragmentmono/v6/4iCr6K5wfMRRjxp0DA6-2CLnB45HhrUI.woff2",
+      "local_path": "public/assets/fonts/4iCr6K5wfMRRjxp0DA6-2CLnB45HhrUI.woff2",
+      "size": 3020
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/fragmentmono/v6/4iCr6K5wfMRRjxp0DA6-2CLnB41HhrUI.woff2",
+      "local_path": "public/assets/fonts/4iCr6K5wfMRRjxp0DA6-2CLnB41HhrUI.woff2",
+      "size": 14112
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/fragmentmono/v6/4iCr6K5wfMRRjxp0DA6-2CLnB4NHhg.woff2",
+      "local_path": "public/assets/fonts/4iCr6K5wfMRRjxp0DA6-2CLnB4NHhg.woff2",
+      "size": 25224
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/geistmono/v1/or3yQ6H-1_WfwkMZI_qYPLs1a-t7PU0AbeE9KJ5W7ihaO_CS.woff2",
+      "local_path": "public/assets/fonts/or3yQ6H-1_WfwkMZI_qYPLs1a-t7PU0AbeE9KJ5W7ihaO_CS.woff2",
+      "size": 29320
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/geistmono/v1/or3yQ6H-1_WfwkMZI_qYPLs1a-t7PU0AbeHaL55W7ihaO_CS.woff2",
+      "local_path": "public/assets/fonts/or3yQ6H-1_WfwkMZI_qYPLs1a-t7PU0AbeHaL55W7ihaO_CS.woff2",
+      "size": 30596
+    },
+    {
+      "url": "https://framerusercontent.com/assets/5vvr9Vy74if2I6bQbJvbw7SY1pQ.woff2",
+      "local_path": "public/assets/fonts/5vvr9Vy74if2I6bQbJvbw7SY1pQ.woff2",
+      "size": 8896
+    },
+    {
+      "url": "https://framerusercontent.com/assets/EOr0mi4hNtlgWNn9if640EZzXCo.woff2",
+      "local_path": "public/assets/fonts/EOr0mi4hNtlgWNn9if640EZzXCo.woff2",
+      "size": 7116
+    },
+    {
+      "url": "https://framerusercontent.com/assets/Y9k9QrlZAqio88Klkmbd8VoMQc.woff2",
+      "local_path": "public/assets/fonts/Y9k9QrlZAqio88Klkmbd8VoMQc.woff2",
+      "size": 4504
+    },
+    {
+      "url": "https://framerusercontent.com/assets/OYrD2tBIBPvoJXiIHnLoOXnY9M.woff2",
+      "local_path": "public/assets/fonts/OYrD2tBIBPvoJXiIHnLoOXnY9M.woff2",
+      "size": 6652
+    },
+    {
+      "url": "https://framerusercontent.com/assets/JeYwfuaPfZHQhEG8U5gtPDZ7WQ.woff2",
+      "local_path": "public/assets/fonts/JeYwfuaPfZHQhEG8U5gtPDZ7WQ.woff2",
+      "size": 25348
+    },
+    {
+      "url": "https://framerusercontent.com/assets/GrgcKwrN6d3Uz8EwcLHZxwEfC4.woff2",
+      "local_path": "public/assets/fonts/GrgcKwrN6d3Uz8EwcLHZxwEfC4.woff2",
+      "size": 27380
+    },
+    {
+      "url": "https://framerusercontent.com/assets/b6Y37FthZeALduNqHicBT6FutY.woff2",
+      "local_path": "public/assets/fonts/b6Y37FthZeALduNqHicBT6FutY.woff2",
+      "size": 4168
+    },
+    {
+      "url": "https://framerusercontent.com/assets/mYcqTSergLb16PdbJJQMl9ebYm4.woff2",
+      "local_path": "public/assets/fonts/mYcqTSergLb16PdbJJQMl9ebYm4.woff2",
+      "size": 40680
+    },
+    {
+      "url": "https://framerusercontent.com/assets/ZRl8AlxwsX1m7xS1eJCiSPbztg.woff2",
+      "local_path": "public/assets/fonts/ZRl8AlxwsX1m7xS1eJCiSPbztg.woff2",
+      "size": 30404
+    },
+    {
+      "url": "https://framerusercontent.com/assets/nhSQpBRqFmXNUBY2p5SENQ8NplQ.woff2",
+      "local_path": "public/assets/fonts/nhSQpBRqFmXNUBY2p5SENQ8NplQ.woff2",
+      "size": 17452
+    },
+    {
+      "url": "https://framerusercontent.com/assets/DYHjxG0qXjopUuruoacfl5SA.woff2",
+      "local_path": "public/assets/fonts/DYHjxG0qXjopUuruoacfl5SA.woff2",
+      "size": 30228
+    },
+    {
+      "url": "https://framerusercontent.com/assets/s7NH6sl7w4NU984r5hcmo1tPSYo.woff2",
+      "local_path": "public/assets/fonts/s7NH6sl7w4NU984r5hcmo1tPSYo.woff2",
+      "size": 97620
+    },
+    {
+      "url": "https://framerusercontent.com/assets/7lw0VWkeXrGYJT05oB3DsFy8BaY.woff2",
+      "local_path": "public/assets/fonts/7lw0VWkeXrGYJT05oB3DsFy8BaY.woff2",
+      "size": 100176
+    },
+    {
+      "url": "https://framerusercontent.com/assets/wx5nfqEgOXnxuFaxB0Mn9OhmcZA.woff2",
+      "local_path": "public/assets/fonts/wx5nfqEgOXnxuFaxB0Mn9OhmcZA.woff2",
+      "size": 14936
+    },
+    {
+      "url": "https://framerusercontent.com/assets/hyOgCu0Xnghbimh0pE8QTvtt2AU.woff2",
+      "local_path": "public/assets/fonts/hyOgCu0Xnghbimh0pE8QTvtt2AU.woff2",
+      "size": 8908
+    },
+    {
+      "url": "https://framerusercontent.com/assets/NeGmSOXrPBfEFIy5YZeHq17LEDA.woff2",
+      "local_path": "public/assets/fonts/NeGmSOXrPBfEFIy5YZeHq17LEDA.woff2",
+      "size": 7152
+    },
+    {
+      "url": "https://framerusercontent.com/assets/oYaAX5himiTPYuN8vLWnqBbfD2s.woff2",
+      "local_path": "public/assets/fonts/oYaAX5himiTPYuN8vLWnqBbfD2s.woff2",
+      "size": 4660
+    },
+    {
+      "url": "https://framerusercontent.com/assets/lEJLP4R0yuCaMCjSXYHtJw72M.woff2",
+      "local_path": "public/assets/fonts/lEJLP4R0yuCaMCjSXYHtJw72M.woff2",
+      "size": 6668
+    },
+    {
+      "url": "https://framerusercontent.com/assets/cRJyLNuTJR5jbyKzGi33wU9cqIQ.woff2",
+      "local_path": "public/assets/fonts/cRJyLNuTJR5jbyKzGi33wU9cqIQ.woff2",
+      "size": 26280
+    },
+    {
+      "url": "https://framerusercontent.com/assets/1ZFS7N918ojhhd0nQWdj3jz4w.woff2",
+      "local_path": "public/assets/fonts/1ZFS7N918ojhhd0nQWdj3jz4w.woff2",
+      "size": 28004
+    },
+    {
+      "url": "https://framerusercontent.com/assets/A0Wcc7NgXMjUuFdquHDrIZpzZw0.woff2",
+      "local_path": "public/assets/fonts/A0Wcc7NgXMjUuFdquHDrIZpzZw0.woff2",
+      "size": 4316
+    },
+    {
+      "url": "https://framerusercontent.com/assets/vxBnBhH8768IFAXAb4Qf6wQHKs.woff2",
+      "local_path": "public/assets/fonts/vxBnBhH8768IFAXAb4Qf6wQHKs.woff2",
+      "size": 9524
+    },
+    {
+      "url": "https://framerusercontent.com/assets/zSsEuoJdh8mcFVk976C05ZfQr8.woff2",
+      "local_path": "public/assets/fonts/zSsEuoJdh8mcFVk976C05ZfQr8.woff2",
+      "size": 7540
+    },
+    {
+      "url": "https://framerusercontent.com/assets/b8ezwLrN7h2AUoPEENcsTMVJ0.woff2",
+      "local_path": "public/assets/fonts/b8ezwLrN7h2AUoPEENcsTMVJ0.woff2",
+      "size": 4948
+    },
+    {
+      "url": "https://framerusercontent.com/assets/mvNEIBLyHbscgHtwfsByjXUz3XY.woff2",
+      "local_path": "public/assets/fonts/mvNEIBLyHbscgHtwfsByjXUz3XY.woff2",
+      "size": 7332
+    },
+    {
+      "url": "https://framerusercontent.com/assets/6FI2EneKzM3qBy5foOZXey7coCA.woff2",
+      "local_path": "public/assets/fonts/6FI2EneKzM3qBy5foOZXey7coCA.woff2",
+      "size": 27624
+    },
+    {
+      "url": "https://framerusercontent.com/assets/qrVgiXNd6RuQjETYQiVQ9nqCk.woff2",
+      "local_path": "public/assets/fonts/qrVgiXNd6RuQjETYQiVQ9nqCk.woff2",
+      "size": 30128
+    },
+    {
+      "url": "https://framerusercontent.com/assets/NHHeAKJVP0ZWHk5YZnQQChIsBM.woff2",
+      "local_path": "public/assets/fonts/NHHeAKJVP0ZWHk5YZnQQChIsBM.woff2",
+      "size": 4276
+    },
+    {
+      "url": "https://framerusercontent.com/assets/vQyevYAyHtARFwPqUzQGpnDs.woff2",
+      "local_path": "public/assets/fonts/vQyevYAyHtARFwPqUzQGpnDs.woff2",
+      "size": 27404
+    },
+    {
+      "url": "https://framerusercontent.com/assets/5A3Ce6C9YYmCjpQx9M4inSaKU.woff2",
+      "local_path": "public/assets/fonts/5A3Ce6C9YYmCjpQx9M4inSaKU.woff2",
+      "size": 8956
+    },
+    {
+      "url": "https://framerusercontent.com/assets/Qx95Xyt0Ka3SGhinnbXIGpEIyP4.woff2",
+      "local_path": "public/assets/fonts/Qx95Xyt0Ka3SGhinnbXIGpEIyP4.woff2",
+      "size": 7176
+    },
+    {
+      "url": "https://framerusercontent.com/assets/6mJuEAguuIuMog10gGvH5d3cl8.woff2",
+      "local_path": "public/assets/fonts/6mJuEAguuIuMog10gGvH5d3cl8.woff2",
+      "size": 4644
+    },
+    {
+      "url": "https://framerusercontent.com/assets/xYYWaj7wCU5zSQH0eXvSaS19wo.woff2",
+      "local_path": "public/assets/fonts/xYYWaj7wCU5zSQH0eXvSaS19wo.woff2",
+      "size": 6676
+    },
+    {
+      "url": "https://framerusercontent.com/assets/otTaNuNpVK4RbdlT7zDDdKvQBA.woff2",
+      "local_path": "public/assets/fonts/otTaNuNpVK4RbdlT7zDDdKvQBA.woff2",
+      "size": 26264
+    },
+    {
+      "url": "https://framerusercontent.com/assets/d3tHnaQIAeqiE5hGcRw4mmgWYU.woff2",
+      "local_path": "public/assets/fonts/d3tHnaQIAeqiE5hGcRw4mmgWYU.woff2",
+      "size": 28032
+    },
+    {
+      "url": "https://framerusercontent.com/assets/DolVirEGb34pEXEp8t8FQBSK4.woff2",
+      "local_path": "public/assets/fonts/DolVirEGb34pEXEp8t8FQBSK4.woff2",
+      "size": 4288
+    },
+    {
+      "url": "https://framerusercontent.com/assets/DpPBYI0sL4fYLgAkX8KXOPVt7c.woff2",
+      "local_path": "public/assets/fonts/DpPBYI0sL4fYLgAkX8KXOPVt7c.woff2",
+      "size": 8892
+    },
+    {
+      "url": "https://framerusercontent.com/assets/4RAEQdEOrcnDkhHiiCbJOw92Lk.woff2",
+      "local_path": "public/assets/fonts/4RAEQdEOrcnDkhHiiCbJOw92Lk.woff2",
+      "size": 7080
+    },
+    {
+      "url": "https://framerusercontent.com/assets/1K3W8DizY3v4emK8Mb08YHxTbs.woff2",
+      "local_path": "public/assets/fonts/1K3W8DizY3v4emK8Mb08YHxTbs.woff2",
+      "size": 4628
+    },
+    {
+      "url": "https://framerusercontent.com/assets/tUSCtfYVM1I1IchuyCwz9gDdQ.woff2",
+      "local_path": "public/assets/fonts/tUSCtfYVM1I1IchuyCwz9gDdQ.woff2",
+      "size": 6672
+    },
+    {
+      "url": "https://framerusercontent.com/assets/VgYFWiwsAC5OYxAycRXXvhze58.woff2",
+      "local_path": "public/assets/fonts/VgYFWiwsAC5OYxAycRXXvhze58.woff2",
+      "size": 26076
+    },
+    {
+      "url": "https://framerusercontent.com/assets/DXD0Q7LSl7HEvDzucnyLnGBHM.woff2",
+      "local_path": "public/assets/fonts/DXD0Q7LSl7HEvDzucnyLnGBHM.woff2",
+      "size": 27992
+    },
+    {
+      "url": "https://framerusercontent.com/assets/GIryZETIX4IFypco5pYZONKhJIo.woff2",
+      "local_path": "public/assets/fonts/GIryZETIX4IFypco5pYZONKhJIo.woff2",
+      "size": 4268
+    },
+    {
+      "url": "https://framerusercontent.com/assets/H89BbHkbHDzlxZzxi8uPzTsp90.woff2",
+      "local_path": "public/assets/fonts/H89BbHkbHDzlxZzxi8uPzTsp90.woff2",
+      "size": 9564
+    },
+    {
+      "url": "https://framerusercontent.com/assets/u6gJwDuwB143kpNK1T1MDKDWkMc.woff2",
+      "local_path": "public/assets/fonts/u6gJwDuwB143kpNK1T1MDKDWkMc.woff2",
+      "size": 7556
+    },
+    {
+      "url": "https://framerusercontent.com/assets/43sJ6MfOPh1LCJt46OvyDuSbA6o.woff2",
+      "local_path": "public/assets/fonts/43sJ6MfOPh1LCJt46OvyDuSbA6o.woff2",
+      "size": 4960
+    },
+    {
+      "url": "https://framerusercontent.com/assets/wccHG0r4gBDAIRhfHiOlq6oEkqw.woff2",
+      "local_path": "public/assets/fonts/wccHG0r4gBDAIRhfHiOlq6oEkqw.woff2",
+      "size": 7360
+    },
+    {
+      "url": "https://framerusercontent.com/assets/WZ367JPwf9bRW6LdTHN8rXgSjw.woff2",
+      "local_path": "public/assets/fonts/WZ367JPwf9bRW6LdTHN8rXgSjw.woff2",
+      "size": 27736
+    },
+    {
+      "url": "https://framerusercontent.com/assets/QxmhnWTzLtyjIiZcfaLIJ8EFBXU.woff2",
+      "local_path": "public/assets/fonts/QxmhnWTzLtyjIiZcfaLIJ8EFBXU.woff2",
+      "size": 30200
+    },
+    {
+      "url": "https://framerusercontent.com/assets/2A4Xx7CngadFGlVV4xrO06OBHY.woff2",
+      "local_path": "public/assets/fonts/2A4Xx7CngadFGlVV4xrO06OBHY.woff2",
+      "size": 4236
+    },
+    {
+      "url": "https://framerusercontent.com/assets/khkJkwSL66WFg8SX6Wa726c.woff2",
+      "local_path": "public/assets/fonts/khkJkwSL66WFg8SX6Wa726c.woff2",
+      "size": 9600
+    },
+    {
+      "url": "https://framerusercontent.com/assets/0E7IMbDzcGABpBwwqNEt60wU0w.woff2",
+      "local_path": "public/assets/fonts/0E7IMbDzcGABpBwwqNEt60wU0w.woff2",
+      "size": 7540
+    },
+    {
+      "url": "https://framerusercontent.com/assets/NTJ0nQgIF0gcDelS14zQ9NR9Q.woff2",
+      "local_path": "public/assets/fonts/NTJ0nQgIF0gcDelS14zQ9NR9Q.woff2",
+      "size": 4932
+    },
+    {
+      "url": "https://framerusercontent.com/assets/QrcNhgEPfRl0LS8qz5Ln8olanl8.woff2",
+      "local_path": "public/assets/fonts/QrcNhgEPfRl0LS8qz5Ln8olanl8.woff2",
+      "size": 7332
+    },
+    {
+      "url": "https://framerusercontent.com/assets/JEXmejW8mXOYMtt0hyRg811kHac.woff2",
+      "local_path": "public/assets/fonts/JEXmejW8mXOYMtt0hyRg811kHac.woff2",
+      "size": 27812
+    },
+    {
+      "url": "https://framerusercontent.com/assets/ksvR4VsLksjpSwnC2fPgHRNMw.woff2",
+      "local_path": "public/assets/fonts/ksvR4VsLksjpSwnC2fPgHRNMw.woff2",
+      "size": 30196
+    },
+    {
+      "url": "https://framerusercontent.com/assets/uy9s0iWuxiNnVt8EpTI3gzohpwo.woff2",
+      "local_path": "public/assets/fonts/uy9s0iWuxiNnVt8EpTI3gzohpwo.woff2",
+      "size": 4220
+    },
+    {
+      "url": "https://framerusercontent.com/images/ZsTAOu1tntLRSdMy1p1o3k3mbrg.svg?width=56&height=56",
+      "local_path": "public/assets/fonts/ZsTAOu1tntLRSdMy1p1o3k3mbrg.svg",
+      "size": 637
+    }
+  ],
+  "images": [
+    {
+      "url": "https://framerusercontent.com/images/htVW7oeyKgu44ClYo3vpOHWEg.jpg?width=3160&height=3732",
+      "local_path": "public/assets/images/htVW7oeyKgu44ClYo3vpOHWEg.jpg",
+      "size": 3308294
+    },
+    {
+      "url": "https://framerusercontent.com/images/CFeo9YNAvOOOutdGL9kOwWpT8.svg",
+      "local_path": "public/assets/images/CFeo9YNAvOOOutdGL9kOwWpT8.svg",
+      "size": 1089
+    },
+    {
+      "url": "https://framerusercontent.com/images/5tVhTeeHG4dOIhzt2gMZNL7ykr0.png?width=150&height=150",
+      "local_path": "public/assets/images/5tVhTeeHG4dOIhzt2gMZNL7ykr0.png",
+      "size": 1216
+    },
+    {
+      "url": "https://framerusercontent.com/images/a3ayOXUIZ1w7qnSSmM8XrmLXE6Q.png?width=160&height=160",
+      "local_path": "public/assets/images/a3ayOXUIZ1w7qnSSmM8XrmLXE6Q.png",
+      "size": 3991
+    },
+    {
+      "url": "https://framerusercontent.com/images/m3h3C28a09X3nNMkDFPPI9M4DBY.png",
+      "local_path": "public/assets/images/m3h3C28a09X3nNMkDFPPI9M4DBY.png",
+      "size": 1918
+    },
+    {
+      "url": "https://framerusercontent.com/images/YXzagkGdlRX4lErjjipAj2WjZww.png",
+      "local_path": "public/assets/images/YXzagkGdlRX4lErjjipAj2WjZww.png",
+      "size": 1967
+    },
+    {
+      "url": "https://framerusercontent.com/images/YFhqs57LH0MW8jzYAkSrbJfTFJ4.png",
+      "local_path": "public/assets/images/YFhqs57LH0MW8jzYAkSrbJfTFJ4.png",
+      "size": 240208
+    }
+  ],
+  "scripts": [
+    {
+      "url": "https://events.framer.com/script?v=2",
+      "local_path": "public/assets/js/81ba3be11224.js",
+      "size": 21233
+    },
+    {
+      "url": "https://framerusercontent.com/sites/3fsUBDASSViKpZLFY74d2i/script_main.BBv2pN6W.mjs",
+      "local_path": "public/assets/js/script_main.BBv2pN6W.mjs",
+      "size": 44664
+    }
+  ],
+  "styles": [],
+  "other": []
+}

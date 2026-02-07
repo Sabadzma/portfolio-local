@@ -1,0 +1,100 @@
+[
+  {
+    "route": "/",
+    "url": "https://loving-event-914440.framer.app/",
+    "output_path": "public/index.html",
+    "size_bytes": 191054,
+    "metadata": {
+      "title": "Saba Chitaishvili",
+      "meta_description": "",
+      "meta_og_image": "https://framerusercontent.com/images/YFhqs57LH0MW8jzYAkSrbJfTFJ4.png",
+      "canonical": "https://loving-event-914440.framer.app/",
+      "lang": "en-US"
+    },
+    "status": "success"
+  },
+  {
+    "route": "/writing/design-tokens-101",
+    "url": "https://loving-event-914440.framer.app/writing/design-tokens-101",
+    "output_path": "public/writing/design-tokens-101/index.html",
+    "size_bytes": 58766,
+    "metadata": {
+      "title": "Design tokens 101 - My Framer Site",
+      "meta_description": "",
+      "meta_og_image": "https://framerusercontent.com/images/YFhqs57LH0MW8jzYAkSrbJfTFJ4.png",
+      "canonical": "",
+      "lang": "en-US"
+    },
+    "status": "success"
+  },
+  {
+    "route": "/writing/hello-world",
+    "url": "https://loving-event-914440.framer.app/writing/hello-world",
+    "output_path": "public/writing/hello-world/index.html",
+    "size_bytes": 56972,
+    "metadata": {
+      "title": "Hello world - My Framer Site",
+      "meta_description": "",
+      "meta_og_image": "https://framerusercontent.com/images/YFhqs57LH0MW8jzYAkSrbJfTFJ4.png",
+      "canonical": "",
+      "lang": "en-US"
+    },
+    "status": "success"
+  },
+  {
+    "route": "/writing/how-ai-is-changing-my-workflow",
+    "url": "https://loving-event-914440.framer.app/writing/how-ai-is-changing-my-workflow",
+    "output_path": "public/writing/how-ai-is-changing-my-workflow/index.html",
+    "size_bytes": 58773,
+    "metadata": {
+      "title": "How AI is changing my workflow - My Framer Site",
+      "meta_description": "",
+      "meta_og_image": "https://framerusercontent.com/images/YFhqs57LH0MW8jzYAkSrbJfTFJ4.png",
+      "canonical": "",
+      "lang": "en-US"
+    },
+    "status": "success"
+  },
+  {
+    "route": "/writing/how-to-think-like-both-a-designer-engineer",
+    "url": "https://loving-event-914440.framer.app/writing/how-to-think-like-both-a-designer-engineer",
+    "output_path": "public/writing/how-to-think-like-both-a-designer-engineer/index.html",
+    "size_bytes": 60192,
+    "metadata": {
+      "title": "How to think like both a designer & engineer - My Framer Site",
+      "meta_description": "",
+      "meta_og_image": "https://framerusercontent.com/images/YFhqs57LH0MW8jzYAkSrbJfTFJ4.png",
+      "canonical": "",
+      "lang": "en-US"
+    },
+    "status": "success"
+  },
+  {
+    "route": "/writing/test-test",
+    "url": "https://loving-event-914440.framer.app/writing/test-test",
+    "output_path": "public/writing/test-test/index.html",
+    "size_bytes": 56184,
+    "metadata": {
+      "title": "Test Test - My Framer Site",
+      "meta_description": "",
+      "meta_og_image": "https://framerusercontent.com/images/YFhqs57LH0MW8jzYAkSrbJfTFJ4.png",
+      "canonical": "",
+      "lang": "en-US"
+    },
+    "status": "success"
+  },
+  {
+    "route": "/writing/ui-performance",
+    "url": "https://loving-event-914440.framer.app/writing/ui-performance",
+    "output_path": "public/writing/ui-performance/index.html",
+    "size_bytes": 98823,
+    "metadata": {
+      "title": "UI Performance - My Framer Site",
+      "meta_description": "",
+      "meta_og_image": "https://framerusercontent.com/images/YFhqs57LH0MW8jzYAkSrbJfTFJ4.png",
+      "canonical": "",
+      "lang": "en-US"
+    },
+    "status": "success"
+  }
+]

@@ -1,9 +1,4 @@
 #!/bin/bash
-# Simple HTTP server for local testing
-
-cd public
-echo "Starting local server..."
-echo "Site will be available at: http://localhost:8000"
-echo "Press Ctrl+C to stop"
-echo ""
+cd "$(dirname "$0")/public"
+echo "Site running at http://localhost:8000"
 python3 -m http.server 8000

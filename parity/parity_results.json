@@ -3,104 +3,51 @@
     "route": "/",
     "viewports": {
       "desktop": {
-        "similarity": 99.99,
-        "source_captured": true,
-        "local_captured": true
+        "similarity": 99.98,
+        "captured": true
       },
       "mobile": {
-        "similarity": 99.88,
-        "source_captured": true,
-        "local_captured": true
+        "similarity": 99.91,
+        "captured": true
       }
     }
   },
   {
-    "route": "/writing/design-tokens-101",
+    "route": "/colors",
     "viewports": {
       "desktop": {
-        "similarity": 88.1,
-        "source_captured": true,
-        "local_captured": true
+        "similarity": 90.83,
+        "captured": true
       },
       "mobile": {
-        "similarity": 58.56,
-        "source_captured": true,
-        "local_captured": true
+        "similarity": 76.32,
+        "captured": true
       }
     }
   },
   {
-    "route": "/writing/hello-world",
+    "route": "/governance-model",
     "viewports": {
       "desktop": {
-        "similarity": 88.62,
-        "source_captured": true,
-        "local_captured": true
+        "similarity": 76.61,
+        "captured": true
       },
       "mobile": {
-        "similarity": 59.25,
-        "source_captured": true,
-        "local_captured": true
+        "similarity": 60.28,
+        "captured": true
       }
     }
   },
   {
-    "route": "/writing/how-ai-is-changing-my-workflow",
+    "route": "/tokens",
     "viewports": {
       "desktop": {
-        "similarity": 88.01,
-        "source_captured": true,
-        "local_captured": true
+        "similarity": 96.18,
+        "captured": true
       },
       "mobile": {
-        "similarity": 58.33,
-        "source_captured": true,
-        "local_captured": true
-      }
-    }
-  },
-  {
-    "route": "/writing/how-to-think-like-both-a-designer-engineer",
-    "viewports": {
-      "desktop": {
-        "similarity": 88.08,
-        "source_captured": true,
-        "local_captured": true
-      },
-      "mobile": {
-        "similarity": 58.4,
-        "source_captured": true,
-        "local_captured": true
-      }
-    }
-  },
-  {
-    "route": "/writing/test-test",
-    "viewports": {
-      "desktop": {
-        "similarity": 89.31,
-        "source_captured": true,
-        "local_captured": true
-      },
-      "mobile": {
-        "similarity": 59.26,
-        "source_captured": true,
-        "local_captured": true
-      }
-    }
-  },
-  {
-    "route": "/writing/ui-performance",
-    "viewports": {
-      "desktop": {
-        "similarity": 88.35,
-        "source_captured": true,
-        "local_captured": true
-      },
-      "mobile": {
-        "similarity": 60.98,
-        "source_captured": true,
-        "local_captured": true
+        "similarity": 81.61,
+        "captured": true
       }
     }
   }

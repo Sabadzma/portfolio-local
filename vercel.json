@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "outputDirectory": "public",
+  "public": true,
   "cleanUrls": true,
   "trailingSlash": false,
   "headers": [
@@ -14,32 +14,13 @@
       ]
     },
     {
-      "source": "/assets/js/(.*).mjs",
+      "source": "/(.*).mjs",
       "headers": [
         {
           "key": "Content-Type",
           "value": "application/javascript"
         }
       ]
-    },
-    {
-      "source": "/assets/fonts/(.*)",
-      "headers": [
-        {
-          "key": "Cache-Control",
-          "value": "public, max-age=31536000, immutable"
-        },
-        {
-          "key": "Access-Control-Allow-Origin",
-          "value": "*"
-        }
-      ]
-    }
-  ],
-  "rewrites": [
-    {
-      "source": "/writing/:slug",
-      "destination": "/writing/:slug/index.html"
     }
   ]
 }

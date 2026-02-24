@@ -12,6 +12,13 @@ cd public && python3 -m http.server 8000
 
 Open http://localhost:8000
 
+## Push to GitHub
+```bash
+git add -A                   # Stage all changes (new, modified, deleted files)
+git commit -m "Your commit message"   # Commit staged changes with a message
+git push origin main         # Push commits to the 'main' branch on GitHub
+```
+
 ## Deploy on Vercel
 
 ### CLI
